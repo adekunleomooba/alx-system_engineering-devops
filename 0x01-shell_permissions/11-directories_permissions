@@ -1,2 +1,2 @@
-#!/bin/bask
-chmod -R -X
+#!/bin/bash
+chmod -R +X .
